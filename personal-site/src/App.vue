@@ -20,7 +20,9 @@
 
 export default {
   name: 'App',
-
+  mounted() {
+    document.title = 'Bhuvan Madala';
+  },
 }
 </script>
 
