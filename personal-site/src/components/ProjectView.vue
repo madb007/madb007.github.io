@@ -19,6 +19,9 @@
                         <a href="https://algo-adversaries.vercel.app"
                             class="inline-block bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition duration-300">View
                             Project</a>
+                        <a> href = "https://github.com/madb007/AlgoAdversaries"
+                                        class="inline-block bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition duration-300">View
+ Code</a>
                     </div>
                     <div class="md:w-1/2 border-4 border-blue-400 rounded-lg overflow-hidden">
                         <img src="Project1.jpg" alt="Project 1" class="w-full h-75 object-cover">
