@@ -47,7 +47,7 @@
  Code</a>
                     </div>
                     <div class="md:w-1/2 border-4 border-blue-400 rounded-lg overflow-hidden">
-                        <img src="Project2.jpg" alt="Project 1" class="w-full h-75 object-cover">
+                        <img src="Project2.png" alt="Project 2" class="w-full h-75 object-cover">
                     </div>
                 </div>
                 <!-- <div class="flex flex-col md:flex-row items-center bg-gray-800 rounded-lg overflow-hidden">
