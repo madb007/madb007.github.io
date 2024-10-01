@@ -18,8 +18,8 @@
                         </p>
                         <a href="https://algo-adversaries.vercel.app"
                             class="inline-block bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition duration-300">View
-                            Project</a>
-                        <a> href = "https://github.com/madb007/AlgoAdversaries"
+                            Project</a> &nbsp; &nbsp; &nbsp;
+                        <a href="https://github.com/madb007/AlgoAdversaries"
                                         class="inline-block bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition duration-300">View
  Code</a>
                     </div>
@@ -32,20 +32,17 @@
             <div class="space-y-12">
                 <div class="flex flex-col md:flex-row  bg-gray-900 rounded-lg overflow-hidden">
                     <div class="md:w-1/2 p-6">
-                        <h3 class="text-2xl font-semibold mb-4 text-blue-400">Algo Adversaries</h3>
+                        <h3 class="text-2xl font-semibold mb-4 text-blue-400">Multi-Method Option Pricer</h3>
                         <p class="text-gray-300 mb-4 text-left">
-                Multi-Method Option Pricer is a sophisticated financial tool combining advanced computational methods with a user-friendly interface. Built with C++ and wxWidgets, it demonstrates expertise in quantitative finance and GUI development. Key features include: 
+                Multi-Method Option Pricer is a sophisticated financial tool combining advanced computational methods with a user-friendly interface. Built with C++ and wxWidgets, it demonstrates skill in quantitative finance and GUI development. Key features include: 
                 <br><br>
 
-               • Monte Carlo simulation and Black-Scholes model for option pricing and Greeks calculation
-               • Multi-threaded implementation for high-performance processing of large sample sizes
-               • Custom C++ backend for efficient numerical computations
-               • User-friendly wxWidgets GUI for parameter input and result visualization
+                • Monte Carlo simulation and Black-Scholes model for option pricing and Greeks calculation <br>
+                • Multi-threaded implementation for high-performance processing of large sample sizes<br>
+                • Custom C++ backend for efficient numerical computations<br>
+                • User-friendly wxWidgets GUI for parameter input and result visualization<br>
               </p>
-                        <a href="https://algo-adversaries.vercel.app"
-                            class="inline-block bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition duration-300">View
-                            Project</a>
-                        <a> href="https://github.com/madb007/MC-Options"
+                        <a href="https://github.com/madb007/MC-Options"
                                         class="inline-block bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition duration-300">View
  Code</a>
                     </div>
