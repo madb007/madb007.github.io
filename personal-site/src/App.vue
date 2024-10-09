@@ -7,6 +7,9 @@
       <!-- <router-link to="/about" class="px-4 py-2 hover:text-blue-300">About</router-link>
       <span class="text-gray-500 mx-2">|</span> -->
       <router-link to="/projects" class="px-4 py-2 hover:text-blue-300">Projects</router-link>
+      <span class="text-gray-500 mx-2">|</span>
+
+      <router-link to="/coursework" class="px-4 py-2 hover:text-blue-300">Coursework</router-link>
     </div>
   </nav>
   <main class="flex-grow">

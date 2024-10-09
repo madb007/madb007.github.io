@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "deploy": "npm run build && cp -r dist/* .",
-    "build": "vue-cli-service build && mv dist/* ..",
+    "build": "vue-cli-service build && rm -rf ../js ../css && cp -r dist/js ../js && cp -r dist/css ../css",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
