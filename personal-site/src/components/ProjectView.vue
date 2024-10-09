@@ -47,7 +47,7 @@ The Trading Engine Server is a high-performance, scalable system simulating real
  Code</a>
                     </div>
                     <div class="md:w-1/2 border-4 border-blue-400 rounded-lg overflow-hidden">
-                        <img src="Project3.jpg" alt="Project 3" class="w-full h-75 object-cover">
+                        <img src="Project3.png" alt="Project 3" class="w-full h-75 object-cover">
                     </div>
                 </div>
 
