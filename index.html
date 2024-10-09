@@ -1,1 +1,29 @@
-<!doctype html><html lang=""><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Vue App</title><script defer="defer" src="/js/chunk-vendors.52f75ec0.js"></script><script defer="defer" src="/js/app.024f97a2.js"></script><link href="/css/app.4e2e7bca.css" rel="stylesheet"></head><body><div id="app"></div></body></html>
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Vue App</title>
+    <script>
+        // This script checks to see if a redirect is present in the query string
+        // and converts it back into the correct URL.
+        (function(l) {
+            if (l.search[1] === '/' ) {
+                var decoded = l.search.slice(1).split('&').map(function(s) { 
+                    return s.replace(/~and~/g, '&')
+                }).join('?');
+                window.history.replaceState(null, null,
+                    l.pathname.slice(0, -1) + decoded + l.hash
+                );
+            }
+        }(window.location))
+    </script>
+    <script defer="defer" src="/js/chunk-vendors.52f75ec0.js"></script>
+    <script defer="defer" src="/js/app.036464a4.js"></script>
+    <link href="/css/app.9a207d3b.css" rel="stylesheet">
+</head>
+<body>
+    <div id="app"></div>
+</body>
+</html>
